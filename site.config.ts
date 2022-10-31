@@ -9,8 +9,8 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '千万不要忘记',
-  domain: 'https://www.notion.so/9f3607e6132742feaf677859c7dd4c35',
+  name: '但是我要加苹果味道',
+  domain: 'https://www.notion.so/yuan-space/9f3607e6132742feaf677859c7dd4c35',
   author: '乌玄',
 
   // open graph metadata (optional)
